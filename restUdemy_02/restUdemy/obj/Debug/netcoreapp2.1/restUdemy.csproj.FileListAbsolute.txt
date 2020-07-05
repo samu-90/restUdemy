@@ -12,3 +12,16 @@ D:\Projetos\ud\restful\restUdemy\restUdemy\restUdemy\obj\Debug\netcoreapp2.1\res
 D:\Projetos\ud\restful\restUdemy\restUdemy\restUdemy\obj\Debug\netcoreapp2.1\restUdemy.RazorTargetAssemblyInfo.cache
 D:\Projetos\ud\restful\restUdemy\restUdemy\restUdemy\obj\Debug\netcoreapp2.1\restUdemy.dll
 D:\Projetos\ud\restful\restUdemy\restUdemy\restUdemy\obj\Debug\netcoreapp2.1\restUdemy.pdb
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\bin\Debug\netcoreapp2.1\restUdemy.deps.json
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\bin\Debug\netcoreapp2.1\restUdemy.runtimeconfig.json
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\bin\Debug\netcoreapp2.1\restUdemy.runtimeconfig.dev.json
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\bin\Debug\netcoreapp2.1\restUdemy.dll
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\bin\Debug\netcoreapp2.1\restUdemy.pdb
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\obj\Debug\netcoreapp2.1\restUdemy.csproj.CoreCompileInputs.cache
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\obj\Debug\netcoreapp2.1\restUdemy.RazorAssemblyInfo.cache
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\obj\Debug\netcoreapp2.1\restUdemy.RazorAssemblyInfo.cs
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\obj\Debug\netcoreapp2.1\restUdemy.AssemblyInfoInputs.cache
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\obj\Debug\netcoreapp2.1\restUdemy.AssemblyInfo.cs
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\obj\Debug\netcoreapp2.1\restUdemy.RazorTargetAssemblyInfo.cache
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\obj\Debug\netcoreapp2.1\restUdemy.dll
+D:\Projetos\ud\restful\restUdemy\restUdemy_02\restUdemy\obj\Debug\netcoreapp2.1\restUdemy.pdb

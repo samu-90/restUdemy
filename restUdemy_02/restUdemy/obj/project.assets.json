@@ -11802,11 +11802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\ud\\restful\\restUdemy\\restUdemy\\restUdemy\\restUdemy.csproj",
+      "projectUniqueName": "D:\\Projetos\\ud\\restful\\restUdemy\\restUdemy_02\\restUdemy\\restUdemy.csproj",
       "projectName": "restUdemy",
-      "projectPath": "D:\\Projetos\\ud\\restful\\restUdemy\\restUdemy\\restUdemy\\restUdemy.csproj",
+      "projectPath": "D:\\Projetos\\ud\\restful\\restUdemy\\restUdemy_02\\restUdemy\\restUdemy.csproj",
       "packagesPath": "C:\\Users\\samuel.filho\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\ud\\restful\\restUdemy\\restUdemy\\restUdemy\\obj\\",
+      "outputPath": "D:\\Projetos\\ud\\restful\\restUdemy\\restUdemy_02\\restUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
